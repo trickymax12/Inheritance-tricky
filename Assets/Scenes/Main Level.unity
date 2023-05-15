@@ -606,8 +606,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  defaultWeapon: {fileID: 3962863713495565214, guid: 56efa5e36d601af47934e7b3e8f25889, type: 3}
-  equippedWeapon: {fileID: 0}
+  defaultWeapon: {fileID: 8929642645521826696, guid: fb7408ab5c217a94cbb3867d47c0b744, type: 3}
+  equippedWeapon: {fileID: 8929642645521826696, guid: fb7408ab5c217a94cbb3867d47c0b744, type: 3}
   weaponSlot: {fileID: 504766509}
 --- !u!58 &1148014235
 CircleCollider2D:

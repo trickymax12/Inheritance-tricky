@@ -8,6 +8,9 @@ public class PlayerController : MonoBehaviour
     public Weapon defaultWeapon;
     public Weapon equippedWeapon;
     public Transform weaponSlot;
+    public float health;
+    public float maxHealth;
+    public float maxSpeed;
 
     private Camera mainCamera;
     private Vector2 mousePos;
